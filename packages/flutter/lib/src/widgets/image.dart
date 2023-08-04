@@ -1140,6 +1140,7 @@ class _ImageState extends State<Image> with WidgetsBindingObserver {
             : null,
       );
     }
+    
     return _imageStreamListener!;
   }
 
